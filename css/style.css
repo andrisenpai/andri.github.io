@@ -1,1 +1,5 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+body {
+  height: 100vh;
+  background-color: linear-gradient(0deg, #22c1c3 0%, #2d85fd 100%);
+}
+/*# sourceMappingURL=style.css.map */
