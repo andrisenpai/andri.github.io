@@ -1,5 +1,6 @@
 body {
   height: 100vh;
-  background-color: linear-gradient(0deg, #22c1c3 0%, #2d85fd 100%);
+  background: -webkit-gradient(linear, left bottom, left top, from(#22c1c3), to(#2d85fd));
+  background: linear-gradient(0deg, #22c1c3 0%, #2d85fd 100%);
 }
 /*# sourceMappingURL=style.css.map */
